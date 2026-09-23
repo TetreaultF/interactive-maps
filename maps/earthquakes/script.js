@@ -8,7 +8,7 @@
   // USGS feed past 30 days
   // "all_month.geojson" for everything
   // "2.5_month.geojson" for only 2.5+
-  var FEED_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson";
+  var FEED_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson";
   var WORLD_ATLAS_URL = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
   var REFRESH_MS = 5 * 60 * 1000;
 
@@ -23,9 +23,6 @@
   var selectedId = null;
   var currentHours = 1;
 
-  // Domain starts at 2.5 (the feed's floor) rather than 0, so the
-  // realistic magnitude range actually spreads across the pixel range
-  // instead of bunching up near one end.
   var radiusScale = d3.scaleSqrt().domain([2, 7]).range([3, 32]).clamp(true);
   var colorScale = d3.scaleLinear()
     .domain([2, 4, 5.5, 7])
