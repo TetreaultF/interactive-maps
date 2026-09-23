@@ -1,0 +1,201 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  background: #081424;
+  color: #f8fafc;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header-section {
+  text-align: center;
+  padding: 24px 20px 16px;
+  max-width: 800px;
+}
+
+.header-section h1 {
+  margin: 0 0 8px;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+}
+
+.header-section p {
+  margin: 0;
+  font-size: 15px;
+  color: #94a3b8;
+  line-height: 1.5;
+}
+
+.map-section {
+  width: 100%;
+  max-width: 1400px;
+  padding: 0 24px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+#map-wrapper {
+  position: relative;
+  width: 95vw;
+  max-width: 1400px;
+  height: 78vh;
+  min-height: 600px;
+  max-height: 880px;
+  background: #0b1e33;
+  border-radius: 14px;
+  border: 1px solid #1e3a5f;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.55);
+  overflow: hidden;
+}
+
+#map-container {
+  width: 100%;
+  height: 100%;
+  transform-origin: 0 0;
+  cursor: grab;
+}
+
+#map-container.dragging {
+  cursor: grabbing;
+}
+
+#map-container svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.country-available {
+  cursor: pointer;
+  transition: filter 0.15s ease;
+}
+
+.country-available.hovered {
+  filter: brightness(0.65);
+}
+
+#zoom-controls {
+  position: absolute;
+  bottom: 22px;
+  right: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 10;
+}
+
+#zoom-controls button {
+  width: 42px;
+  height: 42px;
+  border: none;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #0b1e33;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
+  transition: background 0.2s, transform 0.1s;
+}
+
+#zoom-controls button:hover {
+  background: #ffffff;
+  transform: scale(1.05);
+}
+
+#zoom-controls button:active {
+  transform: scale(0.95);
+}
+
+#tooltip {
+  position: fixed;
+  display: none;
+  align-items: center;
+  gap: 12px;
+  background: rgba(15, 23, 42, 0.96);
+  color: #ffffff;
+  padding: 14px;
+  border-radius: 12px;
+  pointer-events: none;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  z-index: 100;
+  backdrop-filter: blur(6px);
+}
+
+#tooltip.visible {
+  display: flex;
+}
+
+.tooltip-flag-box {
+  width: 3em;
+  height: 3em;
+  border-radius: 6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  background-color: #1e293b;
+}
+
+.tooltip-flag {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.tooltip-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3px;
+}
+
+.tooltip-title {
+  font-weight: 800;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: -0.2px;
+}
+
+.tooltip-export {
+  font-size: 12px;
+  font-weight: 400;
+  color: #cbd5e1;
+}
+
+.tooltip-production {
+    font-size: 11px;
+    font-weight:200;
+    color: #cbd5e1;
+    letter-spacing: 0.2px;
+    margin-top: 1px;
+}
+
+.back-button {
+  align-self: flex-start;
+  margin: 20px 24px 0;
+  color: #94a3b8;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.back-button:hover {
+  color: #f8fafc;
+}

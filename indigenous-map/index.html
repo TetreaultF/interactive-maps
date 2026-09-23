@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Indigenous Names of Canada</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;400;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <a href="../" class="back-button"> ← Back to Interactive Atlas </a>
+
+    <h1 id="app-title">Indigenous Names of Canada</h1>
+
+    <p id="app-description">
+        Explore the Indigenous names of various cities and towns in Canada. Click on a circle to learn more.
+    </p>
+
+    <div id="map-wrapper">
+
+        <div id="map-container">
+        </div>
+
+        <div id="zoom-controls">
+
+            <button id="zoom-in" class="zoom-btn">
+                +
+            </button>
+
+            <button id="zoom-out" class="zoom-btn">
+                −
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <div id="overlay" class="hidden">
+
+        <div id="name-card">
+
+            <button id="close-btn">
+                &times;
+            </button>
+
+            <div class="card-content">
+                <h2 id="card-name"></h2>
+                <span id="card-location"></span>
+                <span id="card-language"></span>
+                <p id="card-history"></p>
+                <span id="card-source"></span>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script src="app.js"></script>
+
+</body>
+</html>

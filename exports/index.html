@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Exports Map</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;400;600;700;800&display=swap" rel="stylesheet">  
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <a href="../" class="back-button"> ← Back to Interactive Atlas </a>
+  
+  <header class="header-section">
+    <h1>What is each country best at?</h1>
+    <p>See what every country exports more of than any other country in the world.</p>
+  </header>
+
+  <main class="map-section">
+    <div id="map-wrapper">
+      <div id="map-container"></div>
+      <div id="zoom-controls">
+        <button id="zoom-in" aria-label="Zoom in">+</button>
+        <button id="zoom-out" aria-label="Zoom out">−</button>
+      </div>
+    </div>
+  </main>
+
+  <div id="tooltip"></div>
+
+  <script src="data/countries.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

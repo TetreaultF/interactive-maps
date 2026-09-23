@@ -1,0 +1,610 @@
+{
+    "calgary": {
+        "name": "Mohkínstsis",
+        "city": "Calgary",
+        "province": "Alberta",
+        "language": "Siksikáí'powahsin (Blackfoot)",
+        "history": "Mohkínstsis is the traditional Siksikáí'powahsin name for the area where the city of Calgary is located. The name means “elbow” in Blackfoot, referring to the sharp bend where the Elbow River meets the Bow River. Indigenous peoples have used this area as a meeting and camping place for generations. The region is also known as “elbow” in other Indigenous languages, including Stoney, Cree, and Tsuutʼina: respectively, Wîchîspa Oyade, Otôskwanihk (ᐅᑑᐢᑿᓂᕽ), and Guts’ists’i.",
+        "source": "Wikipedia"
+    },
+    "edmonton": {
+        "name": "Amiskwacîwâskahikan (ᐊᒥᐢᑿᒋᐚᐢᑲᐦᐃᑲᐣ)",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "language": "nêhiyawêwin (Plains Cree)",
+        "history": "Amiskwacîwâskahikan is the nêhiyawewin name for the city of Edmonton, Alberta, translating to “Beaver Hills House”. The area is situated on Treaty 6 territory, which is the traditional and ancestral land of the Cree (nêhiyawak), Blackfoot (Niitsitapi), Nakota Sioux, Dene, Saulteaux, and the Métis Nation. Today, Edmonton has the second largest Indigenous population in Canada.",
+        "source": "University of Alberta"
+    },
+    "red-deer": {
+        "name": "Mihkwâpisimosos",
+        "city": "Red Deer",
+        "province": "Alberta",
+        "language": "nêhiyawêwin (Plains Cree)",
+        "history": "Mihkwâpisimosos is the nêhiyawêwin name for the city of Red Deer, Alberta. The name literally means “red type of deer” and is a Cree rendering of the English name “Red Deer.” The name ultimately comes from the Red Deer River, which the Cree called wâwâskêsiw-sîpiy, meaning “Elk River.” The area has been inhabited by Indigenous peoples, including the Plains Cree, Blackfoot, and Stoney, for generations before the arrival of European fur traders in the late eighteenth century.",
+        "source": "Plains Cree Dictionary, City of Red Deer"
+    },
+    "banff": {
+        "name": "Mînî hrpa",
+        "city": "Banff",
+        "province": "Alberta",
+        "language": "Nakoda",
+        "history": "Mînî hrpa is a Stoney Nakoda name associated with the Banff area. The name refers to the waterfalls of Cascade Mountain, which rises above the town of Banff. The waterfalls have long been an important landmark for the Îyârhe Nakoda and other Indigenous peoples of the region. Banff is located within the traditional territory of the Îyârhe Nakoda, as well as the Tsuut’ina and Blackfoot Nations.",
+        "source": "Banff Canmore Foundation"
+    },
+    "medicine-hat": {
+        "name": "Saamis",
+        "city": "Medicine Hat",
+        "province": "Alberta",
+        "language": "Siksikáí'powahsin (Blackfoot)",
+        "history": "Medicine Hat inherited its name from the Siksikáí'powahsin word “Saamis” which is loosely translated as “medicine man’s hat”. Specifically, the term refers to the sacred eagle tail-feather headdress traditionally worn by Indigenous medicine men and leaders.",
+        "source": "Tourism Medecine Hat"
+    },
+    "fort-mcmurray": {
+        "name": "Nistawâyâw (ᓂᐢᑕᐚᔮᐤ)",
+        "city": "Fort McMurray",
+        "province": "Alberta",
+        "language": "nîhithawîwin (Woods Cree)",
+        "history": "Nistawâyâw is the nîhithawîwin name for Fort McMurray, meaning “the merging of three rivers” or “where three rivers meet”. The name refers to the local waterways, including the Athabasca, Clearwater, and Horse rivers. It is located in Treaty 8 territory and the traditional homelands of Cree, Chipewyan, and Métis peoples.",
+        "source": "Regional Municipality of Wood Buffalo"
+    },
+    "vancouver1": {
+        "name": "K'emk'emeláy̓",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "language": "Sḵwx̱wú7mesh (Squamish)",
+        "history": "K'emk'emeláy̓, meaning “place of many maple trees”, was the name of a village inhabited by the Sḵwx̱wú7mesh, where a sawmill was established by Edward Stamp, beginning the settlement that became Vancouver.",
+        "source": "Wikipedia"
+    },
+    "victoria": {
+        "name": "Camosun",
+        "city": "Victoria",
+        "province": "British Columbia",
+        "language": "Lək̓ʷəŋən (Lekwungen)",
+        "history": "Camosun means “where different waters meet and are transformed” in the Lək̓ʷəŋən language of the Coast Salish Indigenous peoples. The name initially referred to the narrow tidal inlet that connects Victoria Harbour to Portage Inlet.",
+        "source": "Capital Regional District"
+    },
+    "kelowna": {
+        "name": "kiʔláwnaʔ",
+        "city": "Kelowna",
+        "province": "British Columbia",
+        "language": "n̓səl̓xčin̓ (Okanagan)",
+        "history": "kiʔláwnaʔ is the n̓səl̓xčin̓ word for a male grizzly bear and is the origin of the name for the city of Kelowna. The city of Kelowna gets its name from a story about an early settler who got mistaken for a grizzly bear.",
+        "source": "Wikipedia"
+    },
+    "nanaimo": {
+        "name": "Snuneymuxw",
+        "city": "Nanaimo",
+        "province": "British Columbia",
+        "language": "Hul̓q̓umín̓um̓",
+        "history": "Snuneymuxw is the name of the Coast Salish people whose traditional territory includes the area around Nanaimo. The word, meaning “people of many names” in the Hul̓q̓umín̓um̓ dialect of Halkomelem, has given its name to the current city of Nanaimo.",
+        "source": "Snuneymuxw First Nation"
+    },
+    "abbotsford": {
+        "name": "Selxwí:chel",
+        "city": "Abbotsford",
+        "province": "British Columbia",
+        "language": "Halq̓eméylem",
+        "history": "Selxwí:chel means the “centre of something” or “the middle of three” in Halq̓eméylem, the Upriver dialect of Halkomelem spoken by the Stó:lō people. It is the traditional Indigenous place name for the area known today as Abbotsford. The name refers to the location being in the middle of three surrounding Indigenous communities: Matsqui (Máthxwi), Sumas (Semá:th), and Nooksack.",
+        "source": "Tourism Abbotsford"
+    },
+    "coquitlam": {
+        "name": "kʷikʷəƛ̓əm",
+        "city": "Coquitlam",
+        "province": "British Columbia",
+        "language": "hən̓q̓əmin̓əm̓",
+        "history": "kʷikʷəƛ̓əm is the hən̓q̓əmin̓əm̓ name of Coquitlam. The name means “red fish up the river,” referring to the sockeye salmon that once flourished in the Coquitlam River. The area is the traditional and ancestral territory of the kʷikʷəƛ̓əm, a Stó:lō people.",
+        "source": "Kwikwetlem First Nation"
+    },
+    "kamloops": {
+        "name": "Tk̓emlúps",
+        "city": "Kamloops",
+        "province": "British Columbia",
+        "language": "Secwepemctsín (Shuswap)",
+        "history": "Tk̓emlúps is a Secwepemctsín word meaning “where the rivers meet.” The word describes the physical location where the North Thompson and South Thompson rivers meet in British Columbia. The English place name Kamloops is an anglicized adaptation and translation of Tk̓emlúps.",
+        "source": "Tk̓emlúps Te Secwépemc"
+    },
+    "winnipeg": {
+        "name": "win-nipi",
+        "city": "Winnipeg",
+        "province": "Manitoba",
+        "language": "Anishinaabemowin (Ojibwe), nêhinawêwin (Cree)",
+        "history": "win-nipi, or wīnipēk (ᐑᓂᐯᐠ) in nêhinawêwin, comes from Anishinaabemowin and nêhinawêwin and translates to “muddy water” or “murky water”. The term was originally used to describe the natural appearance of the silt-filled Lake Winnipeg and the surrounding regional waters.",
+        "source": "Wikipedia"
+    },
+    "churchill": {
+        "name": "Kugjuaq",
+        "city": "Churchill",
+        "province": "Manitoba",
+        "language": "Inuktitut",
+        "history": "Kugjuaq is the Inuktitut name for the area where the town of Churchill is located. The name means “big river,” referring to the Churchill River, which flows into Hudson Bay. The area has long been an important meeting, hunting, fishing, and trading place for Inuit, Cree, and Dene peoples.",
+        "source": "Wikipedia"
+    },
+    "saint-john": {
+        "name": "Menahkwesk",
+        "city": "Saint John",
+        "province": "New Brunswick",
+        "language": "Wolastoqiyik (Maliseet)",
+        "history": "Menahkwesk is the Wolastoqey name for the area that is now the city of Saint John, New Brunswick, meaning “where the sea takes the land”. The site has been an important gathering and trading place for Wabanaki peoples (including the Wolastoqiyik, Miꞌkmaq, and Passamaquoddy) for thousands of years.",
+        "source": "CBC, University of New Brunswick"
+    },
+    "fredericton": {
+        "name": "Seedahn'sis",
+        "city": "Fredericton",
+        "province": "New Brunswick",
+        "language": "Wolastoqiyik (Maliseet)",
+        "history": "Seedahn'sis is the traditional Wolastoqey name for the area where Fredericton is located, on the Wolastoq (Saint John River). The name was recorded by historian William Francis Ganong as the Maliseet name for the site, predating the European names St. Anne’s Point and Fredericton, which were later given to the settlement. The area has long been part of the traditional territory of the Wolastoqiyik, who lived along the river and used it for travel, fishing, hunting, gathering, and trade.",
+        "source": "Archives provinciales du Nouveau-Brunswick"
+    },
+    "campbellton": {
+        "name": "Wisiamkik",
+        "city": "Campbellton",
+        "province": "New Brunswick",
+        "language": "Miꞌkmaq",
+        "history": "Wisiamkik is a Mi'kmaw name for the area where Campbellton is located, along the Restigouche River. The name means “muddy place,” referring to the sediment stirred up where the river narrows. The area was part of the traditional territory of the Miꞌkmaq, who used the river and surrounding lands for fishing, hunting, travel, and trade long before European settlement. The site later received several French and English names before becoming Campbellton in 1833.",
+        "source": "Wikipedia"
+    },
+    "bathurst1": {
+        "name": "Nepisiguit",
+        "city": "Bathurst",
+        "province": "New Brunswick",
+        "language": "Miꞌkmaq",
+        "history": "The original name of the city of Bathurst is Nepisiguit, derived from the Mi'kmaw word winpegijooik, a word generally translated as “roughly flowing water” or “rough water,” describing the Nepisguit River’s strong currents and rapids.",
+        "source": "The Canadian Encyclopedia"
+    },
+    "shediac": {
+        "name": "Esedeiik",
+        "city": "Shédiac",
+        "province": "New Brunswick",
+        "language": "Miꞌkmaq",
+        "history": "The Mi'kmaw name for Shediac, New Brunswick, is Esedeiik, translating to “running far back,” referring to the long, inland-reaching Shediac Bay. The area was traditionally used by the Mi’gmaq for fishing, hunting, travel, and gathering along the coast and waterways.",
+        "source": "The Canadian Encyclopedia"
+    },
+    "nain": {
+        "name": "Nunainguk (ᓄᓀᖕᒍᒃ)",
+        "city": "Nain",
+        "province": "Newfoundland and Labrador",
+        "language": "Nunatsiavummiutitut",
+        "history": "Nunainguk is the Nunatsiavummiutitut (a dialect of Inuktitut) name for Nain, in the region of Nunatsiavut, in Labrador. The name means “he/she is so far out to sea that he/she cannot see any sign of land”. The area has long been home to Labrador Inuit, who relied on the surrounding waters and land for fishing, hunting, travel, and gathering.",
+        "source": "Canadian Geographic Education"
+    },
+    "happy-valley-goose-bay": {
+        "name": "Vâli",
+        "city": "Happy Valley-Goose Bay",
+        "province": "Newfoundland and Labrador",
+        "language": "Nunatsiavummiutitut",
+        "history": "Vâli is the Nunatsiavummiutitut (a dialect of Inuktitut) name for Happy Valley-Goose Bay, in central Labrador. The community lies at the western end of Lake Melville, near the Churchill River, in an area traditionally used by Labrador Inuit and other Indigenous peoples. The name seems to be an adaptation in Nunatsiavummiutitut of the English word “Valley”.",
+        "source": "Wikipedia"
+    },
+    "corner-brook": {
+        "name": "Elmastukwek",
+        "city": "Corner Brook",
+        "province": "Newfoundland and Labrador",
+        "language": "Miꞌkmaq",
+        "history": "Elmastukwek is the Mi'kmaw name for the Bay of Islands in western Newfoundland, including the area around Corner Brook. It means “going away from the river,” referring to moving away from the Humber River, which flows into the bay. The area has long been part of Miꞌkmaq territory and has been used for travel, fishing, hunting, gathering, and settlement.",
+        "source": "Elmastukwek First Nation"
+    },
+    "hopedale": {
+        "name": "Agvitok (ᐊᒡᕕᑐᒃ)",
+        "city": "Hopedale",
+        "province": "Newfoundland and Labrador",
+        "language": "Nunatsiavummiutitut",
+        "history": "Agvitok is the original Nunatsiavummiutitut (a dialect of Inuktitut) name for Hopedale, Labrador. It means “place of bowhead whales” and refers to the area’s historical importance as an Inuit whaling and gathering site. The settlement was an important Inuit coastal site before the Moravian mission was established there in 1782.",
+        "source": "Memorial University of Newfoundland"
+    },
+    "halifax": {
+        "name": "Kjipuktuk",
+        "city": "Halifax",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Kjipuktuk is the Miꞌkmaw name for Halifax and its harbour. It is generally translated as “the great harbour.” The area was an important Miꞌkmaw gathering, harvesting, and travel site long before the establishment of Halifax in 1749.",
+        "source": "Parks Canada"
+    },
+    "amherst": {
+        "name": "Nemcheboogwek",
+        "city": "Amherst",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Nemcheboogwek is a Miꞌkmaw word that means “going up rising ground”. The term was historically used by the Miꞌkmaq people to describe the geographical area overlooking the Tantramar Marshes, in reference to the higher land rising to the east. This indigenous settlement and seasonal pathway was later settled by Acadians (who named it Les Planches) and was eventually renamed Amherst, Nova Scotia.",
+        "source": "Wikipedia"
+    },
+    "lunenburg": {
+        "name": "E'se'katik",
+        "city": "Lunenburg",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "E'se'katik is the Mi’kmaw name for Lunenburg, Nova Scotia. The name means “clam village” or “at the place of clams”, referring to the abundance of clams in the area. The harbour and surrounding lands were traditionally used by the Mi’kmaq for fishing, gathering, travel, and settlement before European colonization.",
+        "source": "CBC, Tourism Nova Scotia"
+    },
+    "annapolis-royal": {
+        "name": "Nme’juaqnek",
+        "city": "Annapolis Royal",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Nme’juaqnek means “the place of bountiful fish” and refers to the area where two rivers meet near present-day Annapolis Royal and the Fort Anne National Historic Site in Nova Scotia. The Mi'kmaq have known for thousands of years that the river herring run in this region in spring and eels are abundant in fall.",
+        "source": "Parks Canada"
+    },
+    "truro": {
+        "name": "Wagobagitik",
+        "city": "Truro",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Wagobagitik is the Mi’kmaw name for the area where Truro, Nova Scotia, is located. The name means “end of the water's flow”, referring to the meeting and termination of waterways in the area.",
+        "source": "Wikipedia"
+    },
+    "antigonish": {
+        "name": "Nalikitquniejk",
+        "city": "Antigonish",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Nalikitquniejk is an ancestral place name originating from the Mi'kmaw language, designating the area known today as Antigonish, which is itself an anglicized adaptation of the word. It roughly tanslates to “place where branches are torn off.”",
+        "source": "Municipality of the County of Antigonish"
+    },
+    "cheticamp": {
+        "name": "Awjátúj",
+        "city": "Chéticamp",
+        "province": "Nova Scotia",
+        "language": "Miꞌkmaq",
+        "history": "Awjátúj is the traditional Mi’kmaw name for the area where Chéticamp, Nova Scotia, is located. The name means “rarely full”, likely referring to the mouth of Chéticamp Harbour, which once had a large sand dune that expanded at low tide.",
+        "source": "Wikipedia"
+    },
+    "yellowknife": {
+        "name": "Sǫǫ̀mbak'è",
+        "city": "Yellowknife",
+        "province": "Northwest Territories",
+        "language": "Tłı̨chǫ (Dogrib)",
+        "history": "Sǫǫ̀mbak'è is the Tłı̨chǫ name for the area where Yellowknife is located. The name means “money site” or “where the money is,” referring to the mineral wealth found in the area.",
+        "source": "Wikipedia"
+    },
+    "inuvik": {
+        "name": "Inuuvik",
+        "city": "Inuvik",
+        "province": "Northwest Territories",
+        "language": "Inuinnaqtun",
+        "history": "Inuuvik is the Inuinnaqtun (a dialect of Inuvialuktun) name for the town of Inuvik, in the Northwest Territories. The name means “place where people live” or “place of people.” Unlike many Indigenous settlements, Inuvik was established in the 1950s to replace the hamlet of Aklavik, with many Inuvialuit Gwich’in and Métis people moving to the town.",
+        "source": "Wikipedia"
+    },
+    "hay-river": {
+        "name": "Xátł'odehchee",
+        "city": "Hay River",
+        "province": "Northwest Territories",
+        "language": "Dene Zhatıé (South Slavey)",
+        "history": "Xátł'odehchee is the Dene Zhatıé name for Hay River. The name means “where the water comes out”, referring to the river’s outlet into Great Slave Lake.",
+        "source": "K'atl'oDeeche First Nation"
+    },
+    "fort-smith": {
+        "name": "Thebacha",
+        "city": "Fort Smith",
+        "province": "Northwest Territories",
+        "language": "Dënesųłinë́ (Chipewyan)",
+        "history": "Thebacha is the Dënesųłiné (Chipewyan) name for Fort Smith. The name means “beside the rapids”, referring to the rapids along the Slave River.",
+        "source": "Wikipedia"
+    },
+    "iqaluit": {
+        "name": "Iqaluit (ᐃᖃᓗᐃᑦ)",
+        "city": "Iqaluit",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Iqaluit is the Inuktitut name for the city of Iqaluit, Nunavut. The name means “place of many fish”, referring to the abundance of fish in the area.",
+        "source": "Language Portal of Canada"
+    },
+    "rankin-inlet": {
+        "name": "Kangiqliniq (ᑲᖏᕿᓂᖅ)",
+        "city": "Rankin Inlet",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Kangiqliniq is the Inuktitut name for Rankin Inlet, meaning “deep inlet”. The name describes the natural ocean inlet on the northwestern coast of Hudson Bay where the community sits.",
+        "source": "Destination Nunavut"
+    },
+    "cambridge-bay": {
+        "name": "Iqaluktuuttiaq (ᐃᖃᓗᒃᑑᑦᑎᐊᖅ)",
+        "city": "Cambridge Bay",
+        "province": "Nunavut",
+        "language": "Inuinnaqtun",
+        "history": "Iqaluktuuttiaq, translating to “good fishing place”, is the traditional Inuinnaqtun name for the area around Cambridge Bay, on Victoria Island, Nunavut. For centuries, the area has served as a seasonal gathering and hunting place for Inuit due to the abundance of arctic char, caribou, and seals in the surrounding lakes, rivers, and coastal waters.",
+        "source": "Government of Nunavut"
+    },
+    "arviat": {
+        "name": "Arviat (ᐊᕐᕕᐊᑦ)",
+        "city": "Arviat",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Arviat has a name meaning “place of the bowhead whale”, derived from the Inuktitut word arviq meaning “bowhead whale”. Earlier in history, its name was Tikirajualaaq (“a little long point”), and Ittaliurvik (“a place where the people make tents”).",
+        "source": "Wikipedia"
+    },
+    "pond-inlet": {
+        "name": "Mittimatalik (ᒥᑦᑎᒪᑕᓕᒃ)",
+        "city": "Pond Inlet",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "The traditional Inuktit name for Pond Inlet, a small Inuit community on Baffin Island, is Mittimatalik. The name translates to “the place where the landing place is”, referring to a large rock on which seagulls used to alight and from which they used to fish.",
+        "source": "Hamlet of Pond Inlet"
+    },
+    "baker-lake": {
+        "name": "Qamani'tuaq (ᖃᒪᓂᑦᑐᐊᖅ)",
+        "city": "Baker Lake",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Baker Lake’s Inuktitut name is Qamani’tuaq, meaning “where the river widens”. The name refers to the Thelon and Kazan rivers, which flow in the area before moving towards Chesterfield Inlet.",
+        "source": "Destination Nunavut"
+    },
+    "igloolik1": {
+        "name": "Iglulik (ᐃᒡᓗᓕᒃ)",
+        "city": "Igloolik",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Iglulik means “place of houses” in Inuktitut. In Inuktitut, the word iglu means “house”, and the hamlet's name refers to the sod houses that were originally in the area, rather than to snow igloos.",
+        "source": "Natural Resources Canada"
+    },
+    "pangnirtung": {
+        "name": "Panniqtuuq (ᐸᖕᓂᖅᑑᖅ)",
+        "city": "Pangnirtung",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "The traditional name of Pangnirtung, a small community on Baffin Island, is Panniqtuuq. The word means “the place of many bull caribou” in Inuktitut, referring to the caribou found in the surrounding region.",
+        "source": "Nunatsiaq News"
+    },
+    "resolute": {
+        "name": "Qausuittuq (ᖃᐅᓱᐃᑦᑐᖅ)",
+        "city": "Resolute",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "The Inuktitut name of Resolute is Qausuittuq, meaning “the place where the sun doesn't rise”. This refers to the long winter nights in the extreme north of Nunavut, where the hamlet is located.",
+        "source": "Wikipedia"
+    },
+    "grise-fiord": {
+        "name": "Aujuittuq (ᐊᐅᔪᐃᑦᑐᖅ)",
+        "city": "Grise Fiord",
+        "province": "Nunavut",
+        "language": "Inuktitut",
+        "history": "Aujuittuq is the Inuktitut name for Grise Fiord, on Ellesmere Island. The name means “place that never thaws,” referring to the hamlet's cold climate and persistent sea ice. Grise Fiord is notably Canada's northernmost public community and one of the coldest inhabited places in the world.",
+        "source": "Government of Nunavut"
+    },
+    "toronto": {
+        "name": "Tkaronto",
+        "city": "Toronto",
+        "province": "Ontario",
+        "language": "Kanien'kéha (Mohawk)",
+        "history": "Tkaronto is an Indigenous word most commonly attributed to Kanien'kéha that means “where there are trees standing in the water.” Historically, the name described the narrows between Lake Simcoe and Lake Couchiching where Indigenous peoples like the Haudenosaunee and Huron-Wendat used wooden stakes as fishing weirs to catch fish.",
+        "source": "Ramara Historical Society"
+    },
+    "ottawa": {
+        "name": "Odàwàg",
+        "city": "Ottawa",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "Odàwàg is the modern Anishinàbemiwin name for the city of Ottawa. The name comes from the word adàwe, which means “to trade” or “to do commerce.” Historically, this area and the Ottawa River served as vital trade routes for Indigenous nations.",
+        "source": "Natural Resources Canada"
+    },
+    "sudbury": {
+        "name": "N'Swakamok",
+        "city": "Sudbury",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "N'Swakamok is the historic Indigenous name for the region where the Greater City of Sudbury now stands. The name translates to “where the three roads meet” in Anishinaabemowin and refers to the area's location at an important meeting point of traditional travel routes. The region has long been part of the traditional territory of the Atikameksheng Anishnawbek and Wahnapitae First Nation, who used the surrounding lands and waterways for travel, hunting, fishing, and gathering.",
+        "source": "N'Swakamok Indigenous Friendship Centre"
+    },
+    "sault-ste-marie": {
+        "name": "Baawaating",
+        "city": "Sault Ste. Marie",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "Baawaating is the Anishinaabemowin name for Sault Ste. Marie. The name means “the place of the rapids,” referring to the rapids of the St. Marys River, connecting Lake Superior and Lake Huron. The area has been an important Anishinaabe fishing, gathering, and meeting place for more than 2,000 years.",
+        "source": "City of Sault Ste. Marie"
+    },
+    "kingston": {
+        "name": "Ka’tarohkwi",
+        "city": "Kingston",
+        "province": "Ontario",
+        "language": "Kanien'kéha (Mohawk)",
+        "history": "Ka’tarohkwi is the Kanien'kéha (Mohawk) name for Kingston, meaning “a place where there is clay”, “a place with mud” or “where the limestone is,” referring to the wetlands around Kingston. The area has long been connected to the Haudenosaunee, Anishinaabe, and Huron-Wendat peoples and has served as a place of travel, trade, and settlement.",
+        "source": "All Our Relations Land Trust"
+    },
+    "thunder-bay": {
+        "name": "Anemki Wequedong",
+        "city": "Thunder Bay",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "The traditional Anishinaabemowin name for Thunder Bay is Anemki Wequedong, meaning “the Thunder Bird hugs the land in its wings”. Built on the traditional lands of the Ojibway People of Fort William First Nation and historic Metis settlements, Thunder Bay is located within the territory of the Robinson-Superior Treaty of 1850, an agreement between the Crown and Ojibway Chiefs of the Northern Shore of Lake Superior (Gichigami in Anishinaabemowin).",
+        "source": "Tourism Thunder Bay"
+    },
+    "london": {
+        "name": "Kotequongong",
+        "city": "London",
+        "province": "Ontario",
+        "language": "Attawandaron (Neutral Huron) or Anishinaabemowin (Ojibwe)",
+        "history": "Kotequongong refers to an ancient Indigenous village that existed near the Thames River in what is now London. By the 1600s, the village was home to around 2,000 First Nations people living in longhouses. The area was traditionally used by Anishinaabeg, Haudenosaunee, Lenape, Attawandaron, and Wendat peoples for settlement, travel, hunting, and gathering.",
+        "source": "CityMatch"
+    },
+    "windsor": {
+        "name": "Waawiyaataanong",
+        "city": "Windsor",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "Waawiyaataanong is the traditional Anishinaabemowin name for the Detroit and Windsor region. The name means “where the water is round,” referring to the Detroit River and the shape of the surrounding waterways. The area has long been an important gathering, trading, and travel place for Anishinaabe peoples, including the Three Fires Confederacy.",
+        "source": "Princeton University"
+    },
+    "hamilton": {
+        "name": "Attiwandaronia",
+        "city": "Hamilton",
+        "province": "Ontario",
+        "language": "Attawandaron (Neutral Huron)",
+        "history": "Attiwandaronia is the name given to the traditional territory of the Attawandaron people (also known as the Neutral Nation), who inhabited the region around Hamilton. The name Attawandaron was used by the Huron-Wendat and means “people of a slightly different language.”",
+        "source": "Wikipedia, University of Waterloo"
+    },
+    "oshawa": {
+        "name": "Aazhaway",
+        "city": "Oshawa",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "Oshawa's name comes from the Anishinaabemowin term aazhaway, meaning “crossing place.” Historically, the location served as an important trading and transfer point where travelers and traders exchanged canoes for land trails, or crossed streams along the shoreline of Lake Ontario.",
+        "source": "Wikipedia"
+    },
+    "niagara-falls": {
+        "name": "Jo’sgöhso:dö’",
+        "city": "Niagara Falls",
+        "province": "Ontario",
+        "language": "Onöndowaʼga꞉ʼ Gawë꞉noʼ (Seneca)",
+        "history": "The Onödowáʼga꞉ named the Niagara Falls Jo’sgöhso:dö’, a name meaning “the cliffs are standing.” The Niagara region has long been part of the traditional territory of the Haudenosaunee, including the Seneca.",
+        "source": "Seneca Language"
+    },
+    "kenora": {
+        "name": "Wazhashk-Onigamiing",
+        "city": "Kenora",
+        "province": "Ontario",
+        "language": "Anishinaabemowin (Ojibwe)",
+        "history": "Wazhashk-Onigamiing is the Anishinaabemowin name for Kenora. The name means “place of the muskrat portage,” referring to a traditional portage route in the Lake of the Woods area. The previous name of Kenora, Rat Portage, was taken from the Anishinaabemowin name of the settlement. The region has long been part of Anishinaabe territory and was an important place for travel, fishing, hunting, and trade.",
+        "source": "Wikipedia"
+    },
+    "charlottetown": {
+        "name": "Skmaqn",
+        "city": "Charlottetown",
+        "province": "Prince Edward Island",
+        "language": "Miꞌkmaq",
+        "history": "Skmaqn is the traditional Mi’kmaw name for the area of Port-la-Joye on Prince Edward Island, overlooking Charlottetown Harbour. The name means “the waiting place,” referring to the site where the Mi'kmaq would gather at the site and wait for the French leaders to arrive by boat from Cape Breton, Nova Scotia.",
+        "source": "Parks Canada"
+    },
+    "quebec": {
+        "name": "Kébec",
+        "city": "Québec",
+        "province": "Québec",
+        "language": "Anicinàbemowin (Algonquin)",
+        "history": "The modern name for Québec comes from the Algonquin word kébec, meaning “where the river narrows.” The name refers to the narrowing of the Saint Lawrence River near Quebec City. The area was also home to Stadacona, an Indigenous settlement encountered by Jacques Cartier in 1535.",
+        "source": "Natural Resources Canada"
+    },
+    "montreal": {
+        "name": "Tiohtià:ke",
+        "city": "Montréal",
+        "province": "Québec",
+        "language": "Kanien'kéha (Mohawk)",
+        "history": "Tiohtià:ke, the traditional Kanien'kéha name for Montréal, is an abbreviation of Teionihtiohtià:kon, which loosely translates to “where the group divided/parted ways” or “where the currents divide/unite”. The name refers to the parting of the Saint Lawrence River by the Montreal Islands. In Anishinaabemowin, Montreal is known as Mooniyang, meaning “hollow place.”",
+        "source": "McGill University"
+    },
+    "trois-rivieres": {
+        "name": "Mad8baloden",
+        "city": "Trois-Rivières",
+        "province": "Québec",
+        "language": "Abénaki",
+        "history": "Mad8baloden is the W8banaki name for Trois-Rivières. The name means “at the end,” and refers to the area at the confluence of the Saint-Lawrence and Saint-Maurice Rivers. The site was an important gathering and exchange place for the W8banaki and other Indigenous peoples, who used the surrounding waterways for travel and trade.",
+        "source": "Commission de toponymie"
+    },
+    "sherbrooke": {
+        "name": "Kchi Nikitawtegwak",
+        "city": "Sherbrooke",
+        "province": "Québec",
+        "language": "Abenaki",
+        "history": "Kchi Nikitawtegwak is the W8banaki name for Sherbrooke, Québec. The name means “the large forks,” referring to the confluence of the Saint-François (or Alsig8ntegw) and Magog Rivers.",
+        "source": "Commission de toponymie"
+    },
+    "gatineau": {
+        "name": "Ktsi Agwaday",
+        "city": "Gatineau",
+        "province": "Québec",
+        "language": "Abenaki",
+        "history": "Ktsi Agwaday, or Kchi Agwaday, is the W8banaki name for Hull, now part of Gatineau. The name means “the great upstream,” referring to Hull’s location along the Ottawa River.",
+        "source": "Commission de toponymie"
+    },
+    "saguenay": {
+        "name": "Saki-nip",
+        "city": "Saguenay",
+        "province": "Québec",
+        "language": "Innu-aimun",
+        "history": "Saki-nip is an Innu-aimun term meaning “water that comes out” or “source of the water,” and is the origin of the name of the city of Saguenay. The term refers to the river flowing out the river from Lac Saint-Jean and was first recorded by Jacques Cartier in 1535.",
+        "source": "Commission de toponymie"
+    },
+    "gaspe": {
+        "name": "Gespeg",
+        "city": "Gaspé",
+        "province": "Québec",
+        "language": "Miꞌkmaq",
+        "history": "Gespeg is the Mi’kmaw name for the town of Gaspé. The name is generally interpreted as “where the land ends,” referring to the Gaspé Peninsula extending into the Gulf of St. Lawrence.",
+        "source": "Site d'interprétation Micmac de Gespeg"
+    },
+    "chibougamau": {
+        "name": "Uchepukumuu",
+        "city": "Chibougamau",
+        "province": "Québec",
+        "language": "Innu-aimun or Cree",
+        "history": "The meaning behind the name of Chibougamau is uncertain and has several proposed interpretations. One common theory links it to the Cree words cipukamiw or cipukamaaw, meaning “blocked lake,” possibly referring to a narrow passage. Another interpretation comes from the Innu word tshipogamau, also referring to a blocked or narrow lake. Today, Cree people prefer using the name Uchepukumuu, meaning “blocked lake.”",
+        "source": "Commission de toponymie"
+    },
+    "sept-iles": {
+        "name": "Uashat",
+        "city": "Sept-Îles",
+        "province": "Québec",
+        "language": "Innu-aimun",
+        "history": "Uashat is the Innu name for Sept-Îles, Québec. The name means “at the bay”, referring to the city’s location on the large bay of Sept-Îles. Uashat is also the name of the Innu community located within the city, and the area has long been part of Innu territory.",
+        "source": "Commission de toponymie"
+    },
+    "kuujjuaq": {
+        "name": "Kuujjuaq (ᑰᔾᔪᐊᖅ)",
+        "city": "Kuujjuaq",
+        "province": "Québec",
+        "language": "Inuktitut",
+        "history": "Kuujjuaq is the Inuktitut name for the village of Kuujjuaq, in the Inuit region of Nunavik. The name means “the great river,” referring to the Koksoak River, which flows past the community.",
+        "source": "Commission de toponymie"
+    },
+    "salluit": {
+        "name": "Salluit (ᓴᓪᓗᐃᑦ)",
+        "city": "Salluit",
+        "province": "Québec",
+        "language": "Inuktitut",
+        "history": "Salluit is the Inuktitut name for the village of Salluit, Québec. The name means “the thin ones,” referring to a time when local inhabitants were facing starvation as a result of a lack of wildlife. It is the second northernmost Inuit community in Quebec, after Ivujivik.",
+        "source": "Wikipedia"
+    },
+    "rouyn-noranda": {
+        "name": "Conia Asini",
+        "city": "Rouyn-Noranda",
+        "province": "Québec",
+        "language": "Anicinàbemowin (Algonquin)",
+        "history": "Conia Asini is the Anicinàbemowin name for Rouyn-Noranda. The name means “golden rock,” referring to the mineral-rich rocks found around Lac Osisko. The area was traditionally travelled and occupied by Anicinabek, including the Abitibiwinni and Timiskaming peoples, long before the region’s mining boom.",
+        "source": "Wikipedia"
+    },
+    "chisasibi": {
+        "name": "Chisasibi",
+        "city": "Chisasibi",
+        "province": "Québec",
+        "language": "Cree",
+        "history": "Chisasibi is the Cree name for the community of Chisasibi. The name means “great river,” referring to the La Grande River (Chisasibi in Cree), which flows into James Bay near the community.",
+        "source": "Memorial University of Newfoundland"
+    },
+    "saskatoon": {
+        "name": "Misâskwatômin",
+        "city": "Saskatoon",
+        "province": "Saskatchewan",
+        "language": "nêhiyawêwin (Plains Cree)",
+        "history": "The name Saskatoon comes from the Cree word misâskwatômin, used to designate a plant called the saskatoon berry or western juneberry. The word means “fruit of the tree of many branches.”",
+        "source": "Language Portal of Canada"
+    },
+    "regina": {
+        "name": "oskana kâ-asastêki (ᐅᔅᑲᓇ ᑳᐊᓴᑌᑭ)",
+        "city": "Regina",
+        "province": "Saskatchewan",
+        "language": "nêhiyawêwin (Plains Cree)",
+        "history": "The traditional nêhiyawêwin name for Regina is oskana kâ-asastêki, meaning “where the bones are piled”. The name comes from the large piles of bison bones the nomadic Cree hunters would make in the area. ",
+        "source": "City of Regina"
+    },
+    "moose-jaw": {
+        "name": "Môso-tâpiskan",
+        "city": "Moose Jaw",
+        "province": "Saskatchewan",
+        "language": "nêhiyawêwin (Plains Cree)",
+        "history": "Môso-tâpiskan is the nêhiyawêwin name for Moose Jaw, simply being a translation of “Moose Jaw.” The name of the city originally comes from the term moscâstani-sîpiy, meaning “warm place by the river” in nêhiyawêwin. European settlers are thought to have heard only the first part of the word, moscâs-, and adapted it into the name “Moose Jaw.”",
+        "source": "City of Moose Jaw"
+    },
+    "whitehorse": {
+        "name": "Kwänlin",
+        "city": "Whitehorse",
+        "province": "Yukon",
+        "language": "Dän kʼè (Southern Tutchone)",
+        "history": "Kwänlin is the Southern Tutchone name associated with the area of Whitehorse, specifically the section of the Yukon River around Miles Canyon. The name refers to “water running through a canyon”, describing the place where the river flows through the narrow canyon with steep rock walls.",
+        "source": "Yukon Geographical Place Names Board"
+    },
+    "dawson-city": {
+        "name": "Tr’ochëk",
+        "city": "Dawson City",
+        "province": "Yukon",
+        "language": "Häł gołan (Hän)",
+        "history": "Tr’ochëk, meaning “the place at the mouth of the river,” is the Hän name for the traditional site at the confluence of the Yukon and Klondike Rivers, near present-day Dawson City. The site was a seasonal fishing and gathering place for the Tr’ondëk Hwëch’in for generations, before the Klondike Gold Rush displaced them from the area.",
+        "source": "Tr'ondëk Hwëch'in Government"
+    }
+}
