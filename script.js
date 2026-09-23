@@ -53,8 +53,8 @@ categories.forEach(category => {
                     ${map.description}
                 </p>
 
-                <span class="reference">
-                    Source: ${map.reference}
+                <span class="source">
+                    Source: ${map.source}
                 </span>
 
             </div>
