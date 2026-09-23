@@ -37,7 +37,7 @@ html, body {
 .map-section {
   width: 100%;
   max-width: 1400px;
-  padding: 0 24px 30px;
+  padding: 0 24px;
   display: flex;
   justify-content: center;
 }

@@ -6,14 +6,14 @@ const categories = [
                 name: "World Exports",
                 image: "images/exports.png",
                 description: "Explore what each country exports more than any other country in the world.",
-                link: "exports/",
+                link: "maps/exports/",
                 reference: "Multiple"
             },
             {
                 name: "Indigenous Map of Canada",
                 image: "images/indigenous-map.png",
                 description: "Find out the indigenous names of various Canadian cities and towns.",
-                link: "indigenous-map/",
+                link: "maps/indigenous-map/",
                 reference: "Multiple"
             },
 
