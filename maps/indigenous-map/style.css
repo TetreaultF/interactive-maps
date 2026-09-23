@@ -1,63 +1,6 @@
-* {
-    box-sizing: border-box;
-}
-
 html,
 body {
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    font-family: "Plus Jakarta Sans", system-ui, sans-serif;
     background: #362915;
-    color: #f8fafc;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-/* ========================================
-   BACK BUTTON
-======================================== */
-
-.back-button {
-    align-self: flex-start;
-    margin: 20px 24px 0;
-    color: #94a3b8;
-    text-decoration: none;
-    font-size: 14px;
-    font-weight: 600;
-    transition: color 0.2s ease;
-}
-
-.back-button:hover {
-    color: #f8fafc;
-}
-
-
-/* ========================================
-   HEADER
-======================================== */
-
-#app-title {
-    margin: 0 0 8px;
-    padding: 24px 20px 0;
-    max-width: 800px;
-
-    font-size: 40px;
-    font-weight: 800;
-    letter-spacing: -0.5px;
-    text-align: center;
-}
-
-#app-description {
-    margin: 0;
-    padding: 0 20px 16px;
-    max-width: 800px;
-
-    color: #94a3b8;
-    font-size: 15px;
-    line-height: 1.5;
-    text-align: center;
 }
 
 
@@ -65,47 +8,10 @@ body {
    MAP
 ======================================== */
 
-.map-section {
-    width: 100%;
-    max-width: 1400px;
-    padding: 0 24px;
-    display: flex;
-    justify-content: center;
-}
-
 #map-wrapper {
-    position: relative;
-
-    max-width: 1400px;
-    height: 60vh;
-    min-height: 600px;
-    max-height: 880px;
-
     background: #413424;
-    border-radius: 14px;
     border: 1px solid #1c160e;
     box-shadow: 0 12px 36px rgba(0, 0, 0, 0.55);
-
-    overflow: hidden;
-}
-
-#map-container {
-    width: 100%;
-    height: 100%;
-    transform-origin: 0 0;
-    cursor: grab;
-}
-
-#map-container.dragging {
-    cursor: grabbing;
-}
-
-#map-container svg {
-    width: 100%;
-    height: 100%;
-    display: block;
-    transform-origin: 0 0;
-    transition: transform 0.1s ease-out;
 }
 
 
@@ -130,40 +36,13 @@ body {
    ZOOM
 ======================================== */
 
-#zoom-controls {
-    position: absolute;
-    bottom: 22px;
-    right: 22px;
-
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-
-    z-index: 10;
-}
-
+#zoom-controls button,
 .zoom-btn {
-    width: 42px;
-    height: 42px;
-
-    border: none;
-    border-radius: 10px;
-
     background: rgba(255, 255, 255, 0.92);
     color: #0b1e33;
-
-    font-size: 22px;
-    font-weight: bold;
-
-    cursor: pointer;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.35);
 }
 
+#zoom-controls button:hover,
 .zoom-btn:hover {
     background: white;
 }
@@ -174,18 +53,8 @@ body {
 ======================================== */
 
 #tooltip {
-    position: fixed;
-    display: none;
-
-    pointer-events: none;
     white-space: nowrap;
-
-    z-index: 100;
     transform: translate(12px, -100%);
-}
-
-#tooltip.visible {
-    display: block;
 }
 
 .tooltip-name {
@@ -279,17 +148,7 @@ body {
     font-weight: 800;
 }
 
-#card-location {
-    display: block;
-    margin-top: 8px;
-
-    color: #94a3b8;
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: 0.7px;
-    text-transform: uppercase;
-}
-
+#card-location,
 #card-language {
     display: block;
     margin-top: 8px;
@@ -297,6 +156,11 @@ body {
     color: #94a3b8;
     font-size: 14px;
     font-weight: 700;
+}
+
+#card-location {
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
 }
 
 #card-history {
@@ -323,15 +187,6 @@ body {
 ======================================== */
 
 @media (max-width: 700px) {
-
-    #app-title {
-        font-size: 30px;
-        padding-top: 20px;
-    }
-
-    #app-description {
-        font-size: 13px;
-    }
 
     #map-wrapper {
         min-height: 500px;
